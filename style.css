@@ -1,0 +1,40 @@
+body{
+    background-color: brown;
+    
+ text-transform: capitalize;
+ align-items: center;
+ text-align: center;
+}
+button{
+text-transform: capitalize;
+margin-top: 25px;
+margin-left: 5px;
+padding: 15px;
+}
+
+#btn1{
+    background-color: red;
+    color: white;
+}
+#btn2{
+    background-color: green;
+    color: white;
+
+}
+#btn3{
+    background-color: blue;
+    color: white;
+}
+label{
+    
+}
+input{
+    margin-top: 10px;
+}
+textarea{
+    margin-top:20px;
+
+    text-align: center;
+    font-size: large;
+    
+}
